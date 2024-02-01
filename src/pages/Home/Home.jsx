@@ -5,7 +5,6 @@ import Rooms from "../../components/Rooms/Rooms";
 const Home = () => {
   return (
     <div>
-      {/* <h1>Home</h1> */}
       <Categories />
       <Rooms />
     </div>
